@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af246f43.css",
+    "main.js": "/static/js/main.75e8924c.js",
+    "static/js/787.fdd6379b.chunk.js": "/static/js/787.fdd6379b.chunk.js",
+    "static/media/merza-sans.woff2": "/static/media/merza-sans.5c84a360b2141114a91d.woff2",
+    "index.html": "/index.html",
+    "main.af246f43.css.map": "/static/css/main.af246f43.css.map",
+    "main.75e8924c.js.map": "/static/js/main.75e8924c.js.map",
+    "787.fdd6379b.chunk.js.map": "/static/js/787.fdd6379b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af246f43.css",
+    "static/js/main.75e8924c.js"
+  ]
+}
