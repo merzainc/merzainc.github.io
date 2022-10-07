@@ -1,6 +1,6 @@
 # Reminders App 
 
-This project was developed whilst learning TypeScript Course by Mosh Hamedani [Ultimate TypeScript Course](https://github.com/facebook/create-react-app).
+This project was developed whilst learning TypeScript Course by Mosh Hamedani [Ultimate TypeScript Course](https://codewithmosh.com/p/ultimate-c-plus-plus-series).
 
 ## Available Scripts
 
@@ -16,14 +16,14 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
-Currently temporarily not available.
+Currently temporarily not available..
 
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+See the section about [deployment](https://www.c-sharpcorner.com/article/how-to-deploy-react-application-on-github-pages/) for more information.
 
 ## Learn More
 
