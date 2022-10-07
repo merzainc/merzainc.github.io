@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Merza Sans';
+  src: url('../fonts/merza-sans.woff2') format('woff2');
+}
+
+body {
+  padding: 20px;
+}
