@@ -1,0 +1,15 @@
+{
+  "name": "sass-prac",
+  "version": "1.0.0",
+  "description": "A practise on how sass works",
+  "main": "index.js",
+  "scripts": {
+    "build": "sass --watch scss/styles.scss css/styles.css"
+  },
+  "keywords": [
+    "sass",
+    "css-preprocessors"
+  ],
+  "author": "",
+  "license": "MIT"
+}
