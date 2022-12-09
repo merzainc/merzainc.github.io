@@ -15,13 +15,26 @@
   src: url('./Menlo-Regular.ttf') format('ttf');
 }
 
+@font-face {
+  font-family: Canva;
+  src: url('https: //static.canva.com/web/images/cff149ee1e9d2be50ac77bcd86769d05.woff2');
+}
+
+code,
+pre,
+kbd {
+  font-family: Menlo !important;
+}
+
 body {
   font-family: 'Inter', arial, sans-serif;
-  color: #434343;
+  /* color: #434343; */
+  color: #918ca4;
   background: rgba(240, 240, 240, 0.8);
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 16px;
 }
 
 h1,
@@ -30,13 +43,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Menlo', sans-serif;
+  font-family: 'Canva', sans-serif;
   font-weight: 700;
   color: #778492;
 }
 
 a {
-  color: #3AAA64;
+  color: rgb(50, 215, 75);
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -46,7 +59,7 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #2d844e;
+  color: rgb(40, 205, 65);
 }
 
 a:focus {
@@ -59,7 +72,7 @@ a.btn {
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
-  font-family: 'Menlo', arial, sans-serif;
+  font-family: 'Canva', arial, sans-serif;
   font-family: bold;
   padding: 8px 16px;
   font-weight: bold;
@@ -167,7 +180,7 @@ a.dotted-link:hover {
 
 .header .profile-content .desc {
   color: #778492;
-  font-family: "Menlo", arial, sans-serif;
+  font-family: "Canva", arial, sans-serif;
   font-weight: bold;
   font-size: 24px;
   margin-top: 0;
@@ -297,7 +310,7 @@ a.dotted-link:hover {
 }
 
 .latest .has-ribbon .ribbon .text {
-  font-family: 'Menlo', sans-serif;
+  font-family: 'Inter', sans-serif;
   position: relative;
   left: -8px;
   top: 18px;
@@ -425,7 +438,7 @@ a.dotted-link:hover {
   color: #ccd1d6;
   font-size: 14px;
   font-weight: 400;
-  font-family: "Menlo", arial, sans-serif;
+  font-family: "Canva", arial, sans-serif;
   position: absolute;
   right: 0;
   top: 0;
