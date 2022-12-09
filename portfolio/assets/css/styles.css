@@ -18,8 +18,8 @@
 
 body {
   font-family: 'Inter', arial, sans-serif;
-  color: #434343;
-  /* color: #918ca4; */
+  /* color: #434343; */
+  color: #918ca4;
   background: rgba(240, 240, 240, 0.8);
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
@@ -38,7 +38,7 @@ h6 {
 }
 
 a {
-  color: rgb(50, 215, 75);
+  color: #54ba4e;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -48,7 +48,7 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: rgb(40, 205, 65);
+  color: #49ac43;
 }
 
 a:focus {
