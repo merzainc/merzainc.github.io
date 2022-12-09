@@ -11,31 +11,19 @@
 }
 
 @font-face {
-  font-family: Menlo;
-  src: url('./Menlo-Regular.ttf') format('ttf');
-}
-
-@font-face {
   font-family: Canva;
   src: url('https://static.canva.com/web/images/cff149ee1e9d2be50ac77bcd86769d05.woff2') format('woff2');
 
 }
 
-code,
-pre,
-kbd {
-  font-family: Menlo !important;
-}
-
 body {
   font-family: 'Inter', arial, sans-serif;
-  /* color: #434343; */
-  color: #918ca4;
+  color: #434343;
+  /* color: #918ca4; */
   background: rgba(240, 240, 240, 0.8);
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-size: 16px;
 }
 
 h1,
@@ -851,6 +839,10 @@ body[data-theme="dark"] .text-muted {
 }
 
 @media (min-width: 1400px) {
+  body {
+    font-family: 14px !important;
+  }
+
   .container {
     width: 1360px;
     max-width: inherit;
