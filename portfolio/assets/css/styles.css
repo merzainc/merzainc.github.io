@@ -11,8 +11,8 @@
 }
 
 @font-face {
-  font-family: Canva;
-  src: url('https://static.canva.com/web/images/cff149ee1e9d2be50ac77bcd86769d05.woff2') format('woff2');
+  font-family: Inter;
+  src: url('https: //www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular.woff2') format('woff2');
 
 }
 
@@ -61,7 +61,7 @@ a.btn {
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
-  font-family: 'Canva', arial, sans-serif;
+  font-family: 'Inter', arial, sans-serif;
   font-family: bold;
   padding: 8px 16px;
   font-weight: bold;
@@ -169,7 +169,7 @@ a.dotted-link:hover {
 
 .header .profile-content .desc {
   color: #778492;
-  font-family: "Canva", arial, sans-serif;
+  font-family: "Inter", arial, sans-serif;
   font-weight: bold;
   font-size: 24px;
   margin-top: 0;
@@ -505,7 +505,7 @@ a.dotted-link:hover {
 }
 
 .education .item .university {
-  font-family: "Canva", arial, sans-serif;
+  font-family: "Inter", arial, sans-serif;
   font-size: 13px;
   color: #999;
   font-weight: 600;
