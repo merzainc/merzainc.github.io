@@ -12,7 +12,8 @@
 
 @font-face {
   font-family: Inter;
-  src: url('https: //www.apple.com/wss/fonts/SF-Pro-Text/v3/sf-pro-text_regular.woff2') format('woff2');
+  src: url('../fonts/compact-regular.woff2') format('woff2');
+  src: url('../fonts/compact-regular.woff') format('woff');
 
 }
 
