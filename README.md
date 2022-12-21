@@ -1,6 +1,6 @@
 # Reminders App 
 
-This project was developed whilst learning TypeScript Course by Mosh Hamedani [Ultimate TypeScript Course](https://codewithmosh.com/p/the-ultimate-typescript).
+This project was developed whilst learning [Ultimate TypeScript Course](https://codewithmosh.com/p/the-ultimate-typescript) by Mosh Hamedani .
 
 ## Available Scripts
 
